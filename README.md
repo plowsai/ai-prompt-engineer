@@ -11,7 +11,7 @@ To install this globally
 ## Run 
 
 This is to convert a large model to a small model
-```pompt --xlxs``
+```prompt --xlxs``
 
 
 ## Disclaimer 
